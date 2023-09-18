@@ -1,0 +1,12 @@
+member_id,member_first_name,member_last_name,member_birth_date,member_age,member_gender,drug_ndc,drug_name,drug_form_code,drug_form_desc,drug_brand_generic_code,drug_brand_generic_desc,fill_date,copay,insurancepaid
+10001,David ,Dennison,1946/6/14,72,M,433530848,Risperidone,TB,Tablet,1,Generic,2017/10/31,15,50
+10002,John,Smith,1962/1/2,56,M,545695193,Amoxicillin,OS,Oral Solution,1,Generic,2018/6/14,50,130
+10003,Jane,Doe,1982/5/4,36,F,545693828,Ambien,TB,Tablet,2,Brand,2017/12/30,35,250
+10004,Elaine,Rogers,1983/10/12,34,F,185085302,Diprosone  ,TC,Topical Cream,1,Generic,2017/11/9,15,600
+10001,David ,Dennison,1946/6/14,72,M,545693828,Ambien,TB,Tablet,2,Brand,2018/1/15,20,650
+10001,David ,Dennison,1946/6/14,72,M,433530848,Risperidone,TB,Tablet,1,Generic,2018/2/22,15,48
+10003,Jane,Doe,1982/5/4,36,F,545693828,Ambien,TB,Tablet,2,Brand,2018/5/16,35,322
+10004,Elaine,Rogers,1983/10/12,34,F,185085302,Diprosone  ,TC,Topical Cream,1,Generic,2017/12/8,15,712
+10001,David ,Dennison,1946/6/14,72,M,545693828,Ambien,TB,Tablet,2,Brand,2018/2/14,20,648
+10001,David ,Dennison,1946/6/14,72,M,433530848,Risperidone,TB,Tablet,1,Generic,2018/5/8,15,55
+10001,David ,Dennison,1946/6/14,72,M,545693828,Ambien,TB,Tablet,2,Brand,2018/3/13,20,648
